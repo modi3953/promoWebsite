@@ -1,0 +1,60 @@
+/*
+comments can go here....will not be executed as code
+ */
+body
+{
+    /*background-color: skyblue; */
+    background-image:url("image/background picture.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1
+{
+    color:white
+}
+#textExamples
+{
+    color:white;
+}
+#lists
+{
+    color:white;
+}
+
+#htmllinks
+{
+    background-color: darkcyan;
+    color: chartreuse;
+
+}
+/* The CSS below was obtained via w3schools.com */
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: skyblue;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
